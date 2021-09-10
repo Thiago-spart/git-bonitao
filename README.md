@@ -6,9 +6,9 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 
 ## 📈 Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thiago-spart&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago Spart's Stats" />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
+  <img align="flex-start" src="https://github-readme-stats.vercel.app/api?username=Thiago-spart&show_icons=true&count_private=true&theme=midnight-purple" alt="Thiago Spart's Stats" />
+  
+  <img align="flex-end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-spart&layout=compact&theme=midnight-purple" alt="Thiago Spart's most used languages" />
 
 ## My contribution streak 🔥
 
@@ -34,15 +34,15 @@ Hi there, I'm a front-end developer from Brazil, and i really love doing my proj
 ## What I'm currently learning 📚
 
 - JavaScript
-- React.js
+- React
 - Styled components
-- Typescript.js
-- Next.js
+- Typescript
+- Next
 
 ## My recent work :man_technologist:
 
-- ig.news [project source](https://github.com/Thiago-spart/ignews)
-- seazone-challenger [project source](https://github.com/Thiago-spart/seazone-challenger)
-- dt.money ([project source](https://github.com/Thiago-spart/dtmoney))
+- [ig.news](https://github.com/Thiago-spart/ignews)
+- [seazone-challenger](https://github.com/Thiago-spart/seazone-challenger)
+- [dt.money](https://github.com/Thiago-spart/dtmoney)
 
 </details>
